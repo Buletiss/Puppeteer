@@ -1,0 +1,12 @@
+{
+  "name": "puppeteer",
+  "packageManager": "yarn@4.3.1",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon scrapGaming.js"
+  },
+  "dependencies": {
+    "nodemon": "^3.1.4",
+    "puppeteer": "^23.0.1"
+  }
+}
